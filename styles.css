@@ -19,11 +19,11 @@ body {
 }
 
 .span-full {
-    grid-column: span 4;
+    grid-column: span 4; /* Span all columns */
 }
 
 .span-vertical {
-    grid-column: 1;
+    grid-column: 1; /* First column */
     grid-row: 2 / 6; /* Span rows 2 to 6 */
 }
 
